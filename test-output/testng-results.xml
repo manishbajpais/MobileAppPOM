@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="200781" started-at="2018-05-10T08:46:02Z" finished-at="2018-05-10T08:49:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="200781" started-at="2018-05-10T08:46:02Z" finished-at="2018-05-10T08:49:23Z">
+      <class name="com.mobileum.zainsky.qa.testcases.FlyLOBTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="setup" is-config="true" duration-ms="103522" started-at="2018-05-10T14:16:02Z" finished-at="2018-05-10T14:17:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="FlightTest()[pri:1, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="FlightTest" duration-ms="4790" started-at="2018-05-10T14:17:46Z" finished-at="2018-05-10T14:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightTest -->
+        <test-method status="PASS" signature="RoundTripFlightSearch()[pri:2, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="RoundTripFlightSearch" duration-ms="35996" started-at="2018-05-10T14:17:51Z" finished-at="2018-05-10T14:18:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoundTripFlightSearch -->
+        <test-method status="PASS" signature="RoundTripFilghtList()[pri:3, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="RoundTripFilghtList" duration-ms="32670" started-at="2018-05-10T14:18:27Z" finished-at="2018-05-10T14:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoundTripFilghtList -->
+        <test-method status="PASS" signature="RoundTripFlightDetails()[pri:4, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="RoundTripFlightDetails" duration-ms="2004" started-at="2018-05-10T14:18:59Z" finished-at="2018-05-10T14:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RoundTripFlightDetails -->
+        <test-method status="PASS" signature="BookFlight()[pri:5, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="BookFlight" duration-ms="2057" started-at="2018-05-10T14:19:01Z" finished-at="2018-05-10T14:19:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookFlight -->
+        <test-method status="PASS" signature="NavigateBack()[pri:6, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="NavigateBack" duration-ms="6691" started-at="2018-05-10T14:19:03Z" finished-at="2018-05-10T14:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateBack -->
+        <test-method status="PASS" signature="FlightSort()[pri:7, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="FlightSort" duration-ms="6716" started-at="2018-05-10T14:19:10Z" finished-at="2018-05-10T14:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightSort -->
+        <test-method status="PASS" signature="FlightFiler()[pri:8, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="FlightFiler" duration-ms="1276" started-at="2018-05-10T14:19:17Z" finished-at="2018-05-10T14:19:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightFiler -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mobileum.zainsky.qa.testcases.FlyLOBTest@71423665]" name="tearDown" is-config="true" duration-ms="5038" started-at="2018-05-10T14:19:18Z" finished-at="2018-05-10T14:19:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mobileum.zainsky.qa.testcases.FlyLOBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
